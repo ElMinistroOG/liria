@@ -1,3 +1,5 @@
+> Este archivo existe duplicado como CLAUDE.md y AGENTS.md. Si actualizas uno, actualiza también el otro con el mismo contenido.
+
 # Liria
 
 ## Qué es
